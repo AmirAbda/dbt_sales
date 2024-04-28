@@ -1,0 +1,294 @@
+ProductKey,ProductSubcategoryKey,ProductSKU,ProductName,ModelName,ProductColor,ProductStyle,Sum of ProductCost,Sum of ProductPrice,Sum of DiscountPrice,SKU Category,Price Point,ProductDescription
+214,31,HL-U509-R,"Sport-100 Helmet, Red",Sport-100,Red,,,,,HL,Low,"Universal fit, well-vented, lightweight , snap-on visor."
+215,31,HL-U509,"Sport-100 Helmet, Black",Sport-100,Black,,,,,HL,Low,"Universal fit, well-vented, lightweight , snap-on visor."
+218,23,SO-B909-M,"Mountain Bike Socks, M",Mountain Bike Socks,White,U,,,,SO,Low,Combination of natural and synthetic fibers stays dry and provides just the right cushioning.
+219,23,SO-B909-L,"Mountain Bike Socks, L",Mountain Bike Socks,White,U,,,,SO,Low,Combination of natural and synthetic fibers stays dry and provides just the right cushioning.
+220,31,HL-U509-B,"Sport-100 Helmet, Blue",Sport-100,Blue,,,,,HL,Low,"Universal fit, well-vented, lightweight , snap-on visor."
+223,19,CA-1098,AWC Logo Cap,Cycling Cap,Multi,U,,,,CA,Low,Traditional style with a flip-up brim; one-size fits all.
+226,21,LJ-0192-S,"Long-Sleeve Logo Jersey, S",Long-Sleeve Logo Jersey,Multi,U,,,,LJ,Low,Unisex long-sleeve AWC logo microfiber cycling jersey
+229,21,LJ-0192-M,"Long-Sleeve Logo Jersey, M",Long-Sleeve Logo Jersey,Multi,U,,,,LJ,Low,Unisex long-sleeve AWC logo microfiber cycling jersey
+232,21,LJ-0192-L,"Long-Sleeve Logo Jersey, L",Long-Sleeve Logo Jersey,Multi,U,,,,LJ,Low,Unisex long-sleeve AWC logo microfiber cycling jersey
+235,21,LJ-0192-X,"Long-Sleeve Logo Jersey, XL",Long-Sleeve Logo Jersey,Multi,U,,,,LJ,Low,Unisex long-sleeve AWC logo microfiber cycling jersey
+238,14,FR-R92R-62,"HL Road Frame - Red, 62",HL Road Frame,Red,U,,,,FR,High,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.
+241,14,FR-R92R-44,"HL Road Frame - Red, 44",HL Road Frame,Red,U,,,,FR,High,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.
+244,14,FR-R92R-48,"HL Road Frame - Red, 48",HL Road Frame,Red,U,,,,FR,High,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.
+247,14,FR-R92R-52,"HL Road Frame - Red, 52",HL Road Frame,Red,U,,,,FR,High,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.
+250,14,FR-R92R-56,"HL Road Frame - Red, 56",HL Road Frame,Red,U,,,,FR,High,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.
+253,14,FR-R38B-58,"LL Road Frame - Black, 58",LL Road Frame,Black,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+256,14,FR-R38B-60,"LL Road Frame - Black, 60",LL Road Frame,Black,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+259,14,FR-R38B-62,"LL Road Frame - Black, 62",LL Road Frame,Black,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+262,14,FR-R38R-44,"LL Road Frame - Red, 44",LL Road Frame,Red,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+264,14,FR-R38R-48,"LL Road Frame - Red, 48",LL Road Frame,Red,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+266,14,FR-R38R-52,"LL Road Frame - Red, 52",LL Road Frame,Red,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+268,14,FR-R38R-58,"LL Road Frame - Red, 58",LL Road Frame,Red,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+270,14,FR-R38R-60,"LL Road Frame - Red, 60",LL Road Frame,Red,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+272,14,FR-R38R-62,"LL Road Frame - Red, 62",LL Road Frame,Red,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+274,14,FR-R72R-44,"ML Road Frame - Red, 44",ML Road Frame,Red,U,,,,FR,High,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version."
+275,14,FR-R72R-48,"ML Road Frame - Red, 48",ML Road Frame,Red,U,,,,FR,High,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version."
+276,14,FR-R72R-52,"ML Road Frame - Red, 52",ML Road Frame,Red,U,,,,FR,High,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version."
+277,14,FR-R72R-58,"ML Road Frame - Red, 58",ML Road Frame,Red,U,,,,FR,High,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version."
+278,14,FR-R72R-60,"ML Road Frame - Red, 60",ML Road Frame,Red,U,,,,FR,High,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version."
+279,14,FR-R38B-44,"LL Road Frame - Black, 44",LL Road Frame,Black,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+282,14,FR-R38B-48,"LL Road Frame - Black, 48",LL Road Frame,Black,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+285,14,FR-R38B-52,"LL Road Frame - Black, 52",LL Road Frame,Black,U,,,,FR,Milieu de gamme,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."
+288,12,FR-M94S-42,"HL Mountain Frame - Silver, 42",HL Mountain Frame,Silver,U,,,,FR,High,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.
+291,12,FR-M94S-44,"HL Mountain Frame - Silver, 44",HL Mountain Frame,Silver,U,,,,FR,High,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.
+292,12,FR-M94S-52,"HL Mountain Frame - Silver, 48",HL Mountain Frame,Silver,U,,,,FR,High,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.
+293,12,FR-M94S-46,"HL Mountain Frame - Silver, 46",HL Mountain Frame,Silver,U,,,,FR,High,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.
+296,12,FR-M94B-42,"HL Mountain Frame - Black, 42",HL Mountain Frame,Black,U,,,,FR,High,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.
+299,12,FR-M94B-44,"HL Mountain Frame - Black, 44",HL Mountain Frame,Black,U,,,,FR,High,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.
+300,12,FR-M94B-48,"HL Mountain Frame - Black, 48",HL Mountain Frame,Black,U,,,,FR,High,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.
+301,12,FR-M94B-46,"HL Mountain Frame - Black, 46",HL Mountain Frame,Black,U,,,,FR,High,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.
+304,12,FR-M94B-38,"HL Mountain Frame - Black, 38",HL Mountain Frame,Black,U,,,,FR,High,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.
+307,12,FR-M94S-38,"HL Mountain Frame - Silver, 38",HL Mountain Frame,Silver,U,,,,FR,High,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.
+310,2,BK-R93R-62,"Road-150 Red, 62",Road-150,Red,U,,,,BK,High,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."
+311,2,BK-R93R-44,"Road-150 Red, 44",Road-150,Red,U,,,,BK,High,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."
+312,2,BK-R93R-48,"Road-150 Red, 48",Road-150,Red,U,,,,BK,High,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."
+313,2,BK-R93R-52,"Road-150 Red, 52",Road-150,Red,U,,,,BK,High,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."
+314,2,BK-R93R-56,"Road-150 Red, 56",Road-150,Red,U,,,,BK,High,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."
+315,2,BK-R68R-58,"Road-450 Red, 58",Road-450,Red,U,,,,BK,High,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."
+316,2,BK-R68R-60,"Road-450 Red, 60",Road-450,Red,U,,,,BK,High,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."
+317,2,BK-R68R-44,"Road-450 Red, 44",Road-450,Red,U,,,,BK,High,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."
+318,2,BK-R68R-48,"Road-450 Red, 48",Road-450,Red,U,,,,BK,High,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."
+319,2,BK-R68R-52,"Road-450 Red, 52",Road-450,Red,U,,,,BK,High,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."
+320,2,BK-R50R-58,"Road-650 Red, 58",Road-650,Red,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+322,2,BK-R50R-60,"Road-650 Red, 60",Road-650,Red,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+324,2,BK-R50R-62,"Road-650 Red, 62",Road-650,Red,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+326,2,BK-R50R-44,"Road-650 Red, 44",Road-650,Red,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+328,2,BK-R50R-48,"Road-650 Red, 48",Road-650,Red,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+330,2,BK-R50R-52,"Road-650 Red, 52",Road-650,Red,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+332,2,BK-R50B-58,"Road-650 Black, 58",Road-650,Black,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+334,2,BK-R50B-60,"Road-650 Black, 60",Road-650,Black,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+336,2,BK-R50B-62,"Road-650 Black, 62",Road-650,Black,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+338,2,BK-R50B-44,"Road-650 Black, 44",Road-650,Black,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+340,2,BK-R50B-48,"Road-650 Black, 48",Road-650,Black,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+342,2,BK-R50B-52,"Road-650 Black, 52",Road-650,Black,U,,,,BK,High,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."
+344,1,BK-M82S-38,"Mountain-100 Silver, 38",Mountain-100,Silver,U,,,,BK,High,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+345,1,BK-M82S-42,"Mountain-100 Silver, 42",Mountain-100,Silver,U,,,,BK,High,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+346,1,BK-M82S-44,"Mountain-100 Silver, 44",Mountain-100,Silver,U,,,,BK,High,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+347,1,BK-M82S-48,"Mountain-100 Silver, 48",Mountain-100,Silver,U,,,,BK,High,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+348,1,BK-M82B-38,"Mountain-100 Black, 38",Mountain-100,Black,U,,,,BK,High,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+349,1,BK-M82B-42,"Mountain-100 Black, 42",Mountain-100,Black,U,,,,BK,High,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+350,1,BK-M82B-44,"Mountain-100 Black, 44",Mountain-100,Black,U,,,,BK,High,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+351,1,BK-M82B-48,"Mountain-100 Black, 48",Mountain-100,Black,U,,,,BK,High,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."
+352,1,BK-M68S-38,"Mountain-200 Silver, 38",Mountain-200,Silver,U,,,,BK,High,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+354,1,BK-M68S-42,"Mountain-200 Silver, 42",Mountain-200,Silver,U,,,,BK,High,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+356,1,BK-M68S-46,"Mountain-200 Silver, 46",Mountain-200,Silver,U,,,,BK,High,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+358,1,BK-M68B-38,"Mountain-200 Black, 38",Mountain-200,Black,U,,,,BK,High,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+360,1,BK-M68B-42,"Mountain-200 Black, 42",Mountain-200,Black,U,,,,BK,High,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+362,1,BK-M68B-46,"Mountain-200 Black, 46",Mountain-200,Black,U,,,,BK,High,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.
+364,1,BK-M47B-38,"Mountain-300 Black, 38",Mountain-300,Black,U,,,,BK,High,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.
+365,1,BK-M47B-40,"Mountain-300 Black, 40",Mountain-300,Black,U,,,,BK,High,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.
+366,1,BK-M47B-44,"Mountain-300 Black, 44",Mountain-300,Black,U,,,,BK,High,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.
+367,1,BK-M47B-48,"Mountain-300 Black, 48",Mountain-300,Black,U,,,,BK,High,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.
+368,2,BK-R89R-44,"Road-250 Red, 44",Road-250,Red,U,,,,BK,High,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+369,2,BK-R89R-48,"Road-250 Red, 48",Road-250,Red,U,,,,BK,High,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+370,2,BK-R89R-52,"Road-250 Red, 52",Road-250,Red,U,,,,BK,High,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+371,2,BK-R89R-58,"Road-250 Red, 58",Road-250,Red,U,,,,BK,High,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+373,2,BK-R89B-44,"Road-250 Black, 44",Road-250,Black,U,,,,BK,High,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+375,2,BK-R89B-48,"Road-250 Black, 48",Road-250,Black,U,,,,BK,High,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+377,2,BK-R89B-52,"Road-250 Black, 52",Road-250,Black,U,,,,BK,High,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+379,2,BK-R89B-58,"Road-250 Black, 58",Road-250,Black,U,,,,BK,High,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."
+381,2,BK-R64Y-38,"Road-550-W Yellow, 38",Road-550-W,Yellow,W,,,,BK,High,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+383,2,BK-R64Y-40,"Road-550-W Yellow, 40",Road-550-W,Yellow,W,,,,BK,High,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+385,2,BK-R64Y-42,"Road-550-W Yellow, 42",Road-550-W,Yellow,W,,,,BK,High,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+387,2,BK-R64Y-44,"Road-550-W Yellow, 44",Road-550-W,Yellow,W,,,,BK,High,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+389,2,BK-R64Y-48,"Road-550-W Yellow, 48",Road-550-W,Yellow,W,,,,BK,High,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."
+391,10,FK-1639,LL Fork,LL Fork,,,,,,FK,Milieu de gamme,Stout design absorbs shock and offers more precise steering.
+392,10,FK-5136,ML Fork,ML Fork,,,,,,FK,Milieu de gamme,Composite road fork with an aluminum steerer tube.
+393,10,FK-9939,HL Fork,HL Fork,,,,,,FK,Milieu de gamme,High-performance carbon road fork with curved legs.
+394,11,HS-0296,LL Headset,LL Headset,,,,,,HS,Low,Threadless headset provides quality at an economical price.
+395,11,HS-2451,ML Headset,ML Headset,,,,,,HS,Milieu de gamme,Sealed cartridge keeps dirt out.
+396,11,HS-3479,HL Headset,HL Headset,,,,,,HS,Milieu de gamme,"High-quality 1"" threadless headset with a grease port for quick lubrication."
+397,4,HB-M243,LL Mountain Handlebars,LL Mountain Handlebars,,,,,,HB,Low,All-purpose bar for on or off-road.
+399,4,HB-M763,ML Mountain Handlebars,ML Mountain Handlebars,,,,,,HB,Low,Tough aluminum alloy bars for downhill.
+401,4,HB-M918,HL Mountain Handlebars,HL Mountain Handlebars,,,,,,HB,Milieu de gamme,Flat bar strong enough for the pro circuit.
+403,4,HB-R504,LL Road Handlebars,LL Road Handlebars,,,,,,HB,Low,Unique shape provides easier reach to the levers.
+405,4,HB-R720,ML Road Handlebars,ML Road Handlebars,,,,,,HB,Low,Anatomically shaped aluminum tube bar will suit all riders.
+407,4,HB-R956,HL Road Handlebars,HL Road Handlebars,,,,,,HB,Milieu de gamme,Designed for racers; high-end anatomically shaped bar from aluminum alloy.
+409,12,FR-M63B-38,"ML Mountain Frame - Black, 38",ML Mountain Frame-W,Black,U,,,,FR,Milieu de gamme,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.
+410,17,FW-M423,LL Mountain Front Wheel,LL Mountain Front Wheel,Black,,,,,FW,Low,Replacement mountain wheel for entry-level rider.
+411,17,FW-M762,ML Mountain Front Wheel,ML Mountain Front Wheel,Black,,,,,FW,Milieu de gamme,Replacement mountain wheel for the casual to serious rider.
+412,17,FW-M928,HL Mountain Front Wheel,HL Mountain Front Wheel,Black,,,,,FW,Milieu de gamme,High-performance mountain replacement wheel.
+413,17,FW-R623,LL Road Front Wheel,LL Road Front Wheel,Black,,,,,FW,Low,Replacement road front wheel for entry-level cyclist.
+414,17,FW-R762,ML Road Front Wheel,ML Road Front Wheel,Black,,,,,FW,Milieu de gamme,Sturdy alloy features a quick-release hub.
+415,17,FW-R820,HL Road Front Wheel,HL Road Front Wheel,Black,,,,,FW,Milieu de gamme,Strong wheel with double-walled rim.
+416,17,FW-T905,Touring Front Wheel,Touring Front Wheel,Black,,,,,FW,Milieu de gamme,Aerodynamic rims for smooth riding.
+417,14,FR-R72Y-38,"ML Road Frame-W - Yellow, 38",ML Road Frame-W,Yellow,W,,,,FR,High,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."
+419,17,RW-M423,LL Mountain Rear Wheel,LL Mountain Rear Wheel,Black,,,,,RW,Low,Replacement mountain wheel for entry-level rider.
+420,17,RW-M762,ML Mountain Rear Wheel,ML Mountain Rear Wheel,Black,,,,,RW,Milieu de gamme,Replacement mountain wheel for the casual to serious rider.
+421,17,RW-M928,HL Mountain Rear Wheel,HL Mountain Rear Wheel,Black,,,,,RW,Milieu de gamme,High-performance mountain replacement wheel.
+422,17,RW-R623,LL Road Rear Wheel,LL Road Rear Wheel,Black,,,,,RW,Milieu de gamme,Replacement road rear wheel for entry-level cyclist.
+423,17,RW-R762,ML Road Rear Wheel,ML Road Rear Wheel,Black,,,,,RW,Milieu de gamme,Aluminum alloy rim with stainless steel spokes; built for speed.
+424,17,RW-R820,HL Road Rear Wheel,HL Road Rear Wheel,Black,,,,,RW,Milieu de gamme,Strong rear wheel with double-walled rim.
+425,17,RW-T905,Touring Rear Wheel,Touring Rear Wheel,Black,,,,,RW,Milieu de gamme,Excellent aerodynamic rims guarantee a smooth ride.
+426,12,FR-M63B-40,"ML Mountain Frame - Black, 40",ML Mountain Frame,Black,U,,,,FR,Milieu de gamme,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.
+427,12,FR-M63B-44,"ML Mountain Frame - Black, 44",ML Mountain Frame,Black,U,,,,FR,Milieu de gamme,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.
+428,12,FR-M63B-48,"ML Mountain Frame - Black, 48",ML Mountain Frame,Black,U,,,,FR,Milieu de gamme,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.
+429,14,FR-R72Y-40,"ML Road Frame-W - Yellow, 40",ML Road Frame-W,Yellow,W,,,,FR,High,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."
+431,14,FR-R72Y-42,"ML Road Frame-W - Yellow, 42",ML Road Frame-W,Yellow,W,,,,FR,High,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."
+433,14,FR-R72Y-44,"ML Road Frame-W - Yellow, 44",ML Road Frame-W,Yellow,W,,,,FR,High,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."
+435,14,FR-R72Y-48,"ML Road Frame-W - Yellow, 48",ML Road Frame-W,Yellow,W,,,,FR,High,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."
+437,14,FR-R92B-62,"HL Road Frame - Black, 62",HL Road Frame,Black,U,,,,FR,High,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.
+439,14,FR-R92B-44,"HL Road Frame - Black, 44",HL Road Frame,Black,U,,,,FR,High,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.
+441,14,FR-R92B-48,"HL Road Frame - Black, 48",HL Road Frame,Black,U,,,,FR,High,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.
+443,14,FR-R92B-52,"HL Road Frame - Black, 52",HL Road Frame,Black,U,,,,FR,High,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.
+445,22,SH-M897-S,"Men's Sports Shorts, S",Men's Sports Shorts,Black,M,,,,SH,Low,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.
+446,35,PA-T100,"Touring-Panniers, Large",Touring-Panniers,Grey,,,,,PA,Milieu de gamme,"Durable, water-proof nylon construction with easy access. Large enough for weekend trips."
+447,34,LO-C100,Cable Lock,Cable Lock,,,,,,LO,Low,"Wraps to fit front and rear tires, carrier and 2 keys included."
+448,36,PU-0452,Minipump,Minipump,,,,,,PU,Low,Designed for convenience. Fits in your pocket. Aluminum barrel. 160psi rated.
+449,36,PU-M044,Mountain Pump,Mountain Pump,,,,,,PU,Low,Simple and light-weight. Emergency patches stored in handle.
+450,33,LT-T990,Taillights - Battery-Powered,Taillight,,,,,,LT,Low,Affordable light for safe night riding - uses 3 AAA batteries
+451,33,LT-H902,Headlights - Dual-Beam,Headlights - Dual-Beam,,,,,,LT,Low,Rechargeable dual-beam headlight.
+452,33,LT-H903,Headlights - Weatherproof,Headlights - Weatherproof,,,,,,LT,Low,Rugged weatherproof headlight.
+453,22,SH-M897-M,"Men's Sports Shorts, M",Men's Sports Shorts,Black,M,,,,SH,Low,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.
+454,22,SH-M897-L,"Men's Sports Shorts, L",Men's Sports Shorts,Black,M,,,,SH,Low,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.
+455,22,SH-M897-X,"Men's Sports Shorts, XL",Men's Sports Shorts,Black,M,,,,SH,Low,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.
+456,24,TG-W091-S,"Women's Tights, S",Women's Tights,Black,W,,,,TG,Low,Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.
+457,24,TG-W091-M,"Women's Tights, M",Women's Tights,Black,W,,,,TG,Low,Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.
+458,24,TG-W091-L,"Women's Tights, L",Women's Tights,Black,W,,,,TG,Low,Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.
+459,18,SB-M891-S,"Men's Bib-Shorts, S",Men's Bib-Shorts,Multi,M,,,,SB,Low,"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers."
+460,18,SB-M891-M,"Men's Bib-Shorts, M",Men's Bib-Shorts,Multi,M,,,,SB,Low,"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers."
+461,18,SB-M891-L,"Men's Bib-Shorts, L",Men's Bib-Shorts,Multi,M,,,,SB,Low,"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers."
+462,20,GL-H102-S,"Half-Finger Gloves, S",Half-Finger Gloves,Black,U,,,,GL,Low,"Full padding, improved finger flex, durable palm, adjustable closure."
+464,20,GL-H102-M,"Half-Finger Gloves, M",Half-Finger Gloves,Black,U,,,,GL,Low,"Full padding, improved finger flex, durable palm, adjustable closure."
+466,20,GL-H102-L,"Half-Finger Gloves, L",Half-Finger Gloves,Black,U,,,,GL,Low,"Full padding, improved finger flex, durable palm, adjustable closure."
+468,20,GL-F110-S,"Full-Finger Gloves, S",Full-Finger Gloves,Black,U,,,,GL,Low,"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders."
+469,20,GL-F110-M,"Full-Finger Gloves, M",Full-Finger Gloves,Black,U,,,,GL,Low,"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders."
+470,20,GL-F110-L,"Full-Finger Gloves, L",Full-Finger Gloves,Black,U,,,,GL,Low,"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders."
+471,25,VE-C304-S,"Classic Vest, S",Classic Vest,Blue,U,,,,VE,Low,"Light-weight, wind-resistant, packs to fit into a pocket."
+472,25,VE-C304-M,"Classic Vest, M",Classic Vest,Blue,U,,,,VE,Low,"Light-weight, wind-resistant, packs to fit into a pocket."
+473,25,VE-C304-L,"Classic Vest, L",Classic Vest,Blue,U,,,,VE,Low,"Light-weight, wind-resistant, packs to fit into a pocket."
+474,22,SH-W890-S,"Women's Mountain Shorts, S",Women's Mountain Shorts,Black,W,,,,SH,Low,"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort."
+475,22,SH-W890-M,"Women's Mountain Shorts, M",Women's Mountain Shorts,Black,W,,,,SH,Low,"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort."
+476,22,SH-W890-L,"Women's Mountain Shorts, L",Women's Mountain Shorts,Black,W,,,,SH,Low,"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort."
+477,28,WB-H098,Water Bottle - 30 oz.,Water Bottle,,,,,,WB,Low,AWC logo water bottle - holds 30 oz; leak-proof.
+478,28,BC-M005,Mountain Bottle Cage,Mountain Bottle Cage,,,,,,BC,Low,Tough aluminum cage holds bottle securly on tough terrain.
+479,28,BC-R205,Road Bottle Cage,Road Bottle Cage,,,,,,BC,Low,Aluminum cage is lighter than our mountain version; perfect for long distance trips.
+480,37,PK-7098,Patch Kit/8 Patches,Patch kit,,,,,,PK,Low,"Includes 8 different size patches, glue and sandpaper."
+481,23,SO-R809-M,"Racing Socks, M",Racing Socks,White,U,,,,SO,Low,"Thin, lightweight and durable with cuffs that stay up."
+482,23,SO-R809-L,"Racing Socks, L",Racing Socks,White,U,,,,SO,Low,"Thin, lightweight and durable with cuffs that stay up."
+483,26,RA-H123,Hitch Rack - 4-Bike,Hitch Rack - 4-Bike,,,,,,RA,Milieu de gamme,"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch."
+484,29,CL-9009,Bike Wash - Dissolver,Bike Wash,,,,,,CL,Low,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle."
+485,30,FE-6654,Fender Set - Mountain,Fender Set - Mountain,,,,,,FE,Low,Clip-on fenders fit most mountain bikes.
+486,27,ST-1401,All-Purpose Bike Stand,All-Purpose Bike Stand,,,,,,ST,Milieu de gamme,Perfect all-purpose bike stand for working on your bike at home. Quick-adjusting clamps and steel construction.
+487,32,HY-1023-70,Hydration Pack - 70 oz.,Hydration Pack,Silver,,,,,HY,Low,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt."
+488,21,SJ-0194-S,"Short-Sleeve Classic Jersey, S",Short-Sleeve Classic Jersey,Yellow,U,,,,SJ,Low,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."
+489,21,SJ-0194-M,"Short-Sleeve Classic Jersey, M",Short-Sleeve Classic Jersey,Yellow,U,,,,SJ,Low,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."
+490,21,SJ-0194-L,"Short-Sleeve Classic Jersey, L",Short-Sleeve Classic Jersey,Yellow,U,,,,SJ,Low,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."
+491,21,SJ-0194-X,"Short-Sleeve Classic Jersey, XL",Short-Sleeve Classic Jersey,Yellow,U,,,,SJ,Low,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."
+492,16,FR-T98Y-60,"HL Touring Frame - Yellow, 60",HL Touring Frame,Yellow,U,,,,FR,High,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.
+493,16,FR-T67Y-62,"LL Touring Frame - Yellow, 62",LL Touring Frame,Yellow,U,,,,FR,Milieu de gamme,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.
+494,16,FR-T98Y-46,"HL Touring Frame - Yellow, 46",HL Touring Frame,Yellow,U,,,,FR,High,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.
+495,16,FR-T98Y-50,"HL Touring Frame - Yellow, 50",HL Touring Frame,Yellow,U,,,,FR,High,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.
+496,16,FR-T98Y-54,"HL Touring Frame - Yellow, 54",HL Touring Frame,Yellow,U,,,,FR,High,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.
+497,16,FR-T98U-46,"HL Touring Frame - Blue, 46",HL Touring Frame,Blue,U,,,,FR,High,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.
+498,16,FR-T98U-50,"HL Touring Frame - Blue, 50",HL Touring Frame,Blue,U,,,,FR,High,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.
+499,16,FR-T98U-54,"HL Touring Frame - Blue, 54",HL Touring Frame,Blue,U,,,,FR,High,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.
+500,16,FR-T98U-60,"HL Touring Frame - Blue, 60",HL Touring Frame,Blue,U,,,,FR,High,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.
+501,9,RD-2308,Rear Derailleur,Rear Derailleur,Silver,,,,,RD,Milieu de gamme,Wide-link design.
+502,16,FR-T67U-50,"LL Touring Frame - Blue, 50",LL Touring Frame,Blue,U,,,,FR,Milieu de gamme,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.
+503,16,FR-T67U-54,"LL Touring Frame - Blue, 54",LL Touring Frame,Blue,U,,,,FR,Milieu de gamme,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.
+504,16,FR-T67U-58,"LL Touring Frame - Blue, 58",LL Touring Frame,Blue,U,,,,FR,Milieu de gamme,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.
+505,16,FR-T67U-62,"LL Touring Frame - Blue, 62",LL Touring Frame,Blue,U,,,,FR,Milieu de gamme,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.
+506,16,FR-T67Y-44,"LL Touring Frame - Yellow, 44",LL Touring Frame,Yellow,U,,,,FR,Milieu de gamme,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.
+507,16,FR-T67Y-50,"LL Touring Frame - Yellow, 50",LL Touring Frame,Yellow,U,,,,FR,Milieu de gamme,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.
+508,16,FR-T67Y-54,"LL Touring Frame - Yellow, 54",LL Touring Frame,Yellow,U,,,,FR,Milieu de gamme,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.
+509,16,FR-T67Y-58,"LL Touring Frame - Yellow, 58",LL Touring Frame,Yellow,U,,,,FR,Milieu de gamme,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.
+510,16,FR-T67U-44,"LL Touring Frame - Blue, 44",LL Touring Frame,Blue,U,,,,FR,Milieu de gamme,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.
+511,12,FR-M63S-40,"ML Mountain Frame-W - Silver, 40",ML Mountain Frame-W,Silver,W,,,,FR,Milieu de gamme,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.
+512,12,FR-M63S-42,"ML Mountain Frame-W - Silver, 42",ML Mountain Frame-W,Silver,W,,,,FR,Milieu de gamme,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.
+513,12,FR-M63S-46,"ML Mountain Frame-W - Silver, 46",ML Mountain Frame-W,Silver,W,,,,FR,Milieu de gamme,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.
+514,6,RB-9231,Rear Brakes,Rear Brakes,Silver,,,,,RB,Milieu de gamme,0
+515,15,SE-M236,LL Mountain Seat/Saddle,LL Mountain Seat/Saddle 2,,,,,,SE,Low,Synthetic leather. Features gel for increased comfort.
+516,15,SE-M798,ML Mountain Seat/Saddle,ML Mountain Seat/Saddle 2,,,,,,SE,Low,Designed to absorb shock.
+517,15,SE-M940,HL Mountain Seat/Saddle,HL Mountain Seat/Saddle 2,,,,,,SE,Low,Anatomic design for a full-day of riding in comfort. Durable leather.
+518,15,SE-R581,LL Road Seat/Saddle,LL Road Seat/Saddle 1,,,,,,SE,Low,Lightweight foam-padded saddle.
+519,15,SE-R908,ML Road Seat/Saddle,ML Road Seat/Saddle 2,,,,,,SE,Low,Rubber bumpers absorb bumps.
+520,15,SE-R995,HL Road Seat/Saddle,HL Road Seat/Saddle 2,,,,,,SE,Low,Lightweight kevlar racing saddle. Leather.
+521,15,SE-T312,LL Touring Seat/Saddle,LL Touring Seat/Saddle,,,,,,SE,Low,"Comfortable, ergonomically shaped gel saddle."
+522,15,SE-T762,ML Touring Seat/Saddle,ML Touring Seat/Saddle,,,,,,SE,Low,New design relieves pressure for long rides.
+523,15,SE-T924,HL Touring Seat/Saddle,HL Touring Seat/Saddle,,,,,,SE,Low,Cut-out shell for a more comfortable ride.
+524,12,FR-M21S-42,"LL Mountain Frame - Silver, 42",LL Mountain Frame,Silver,U,,,,FR,Milieu de gamme,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."
+525,12,FR-M21S-44,"LL Mountain Frame - Silver, 44",LL Mountain Frame,Silver,U,,,,FR,Milieu de gamme,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."
+526,12,FR-M21S-48,"LL Mountain Frame - Silver, 48",LL Mountain Frame,Silver,U,,,,FR,Milieu de gamme,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."
+527,12,FR-M21S-52,"LL Mountain Frame - Silver, 52",LL Mountain Frame,Silver,U,,,,FR,Milieu de gamme,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."
+528,37,TT-M928,Mountain Tire Tube,Mountain Tire Tube,,,,,,TT,Low,Self-sealing tube.
+529,37,TT-R982,Road Tire Tube,Road Tire Tube,,,,,,TT,Low,Conventional all-purpose tube.
+530,37,TT-T092,Touring Tire Tube,Touring Tire Tube,,,,,,TT,Low,General purpose tube.
+531,12,FR-M21B-42,"LL Mountain Frame - Black, 42",LL Mountain Frame,Black,U,,,,FR,Milieu de gamme,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."
+532,12,FR-M21B-44,"LL Mountain Frame - Black, 44",LL Mountain Frame,Black,U,,,,FR,Milieu de gamme,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."
+533,12,FR-M21B-48,"LL Mountain Frame - Black, 48",LL Mountain Frame,Black,U,,,,FR,Milieu de gamme,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."
+534,12,FR-M21B-52,"LL Mountain Frame - Black, 52",LL Mountain Frame,Black,U,,,,FR,Milieu de gamme,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."
+535,37,TI-M267,LL Mountain Tire,LL Mountain Tire,,,,,,TI,Low,"Comparible traction, less expensive wire bead casing."
+536,37,TI-M602,ML Mountain Tire,ML Mountain Tire,,,,,,TI,Low,"Great traction, high-density rubber."
+537,37,TI-M823,HL Mountain Tire,HL Mountain Tire,,,,,,TI,Low,"Incredible traction, lightweight carbon reinforced."
+538,37,TI-R092,LL Road Tire,LL Road Tire,,,,,,TI,Low,Same great treads as more expensive tire with a less expensive wire bead casing.
+539,37,TI-R628,ML Road Tire,ML Road Tire,,,,,,TI,Low,Higher density rubber.
+540,37,TI-R982,HL Road Tire,HL Road Tire,,,,,,TI,Low,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.
+541,37,TI-T723,Touring Tire,Touring Tire,,,,,,TI,Low,High-density rubber.
+542,13,PD-M282,LL Mountain Pedal,LL Mountain Pedal,Silver/Black,,,,,PD,Low,Expanded platform so you can ride in any shoes; great for all-around riding.
+543,13,PD-M340,ML Mountain Pedal,ML Mountain Pedal,Silver/Black,,,,,PD,Low,"Lightweight, durable, clipless pedal with adjustable tension."
+544,13,PD-M562,HL Mountain Pedal,HL Mountain Pedal,Silver/Black,,,,,PD,Low,Stainless steel; designed to shed mud easily.
+545,13,PD-R347,LL Road Pedal,LL Road Pedal,Silver/Black,,,,,PD,Low,Clipless pedals - aluminum.
+546,13,PD-R563,ML Road Pedal,ML Road Pedal,Silver/Black,,,,,PD,Low,Lightweight aluminum alloy construction.
+547,13,PD-R853,HL Road Pedal,HL Road Pedal,Silver/Black,,,,,PD,Low,Top-of-the-line clipless pedals with adjustable tension.
+548,13,PD-T852,Touring Pedal,Touring Pedal,Silver/Black,,,,,PD,Low,A stable pedal for all-day riding.
+549,12,FR-M63S-38,"ML Mountain Frame-W - Silver, 38",ML Mountain Frame-W,Silver,W,,,,FR,Milieu de gamme,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.
+550,12,FR-M21B-40,"LL Mountain Frame - Black, 40",LL Mountain Frame,Black,U,,,,FR,Milieu de gamme,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."
+551,12,FR-M21S-40,"LL Mountain Frame - Silver, 40",LL Mountain Frame,Silver,U,,,,FR,Milieu de gamme,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."
+552,9,FD-2342,Front Derailleur,Front Derailleur,Silver,,,,,FD,Low,Wide-link design.
+553,4,HB-T721,LL Touring Handlebars,LL Touring Handlebars,,,,,,HB,Low,Unique shape reduces fatigue for entry level riders.
+554,4,HB-T928,HL Touring Handlebars,HL Touring Handlebars,,,,,,HB,Low,A light yet stiff aluminum bar for long distance riding.
+555,6,FB-9873,Front Brakes,Front Brakes,Silver,,,,,FB,Milieu de gamme,All-weather brake pads; provides superior stopping by applying more surface to the rim.
+556,8,CS-4759,LL Crankset,LL Crankset,Black,,,,,CS,Milieu de gamme,Super rigid spindle.
+557,8,CS-6583,ML Crankset,ML Crankset,Black,,,,,CS,Milieu de gamme,High-strength crank arm.
+558,8,CS-9183,HL Crankset,HL Crankset,Black,,,,,CS,Milieu de gamme,Triple crankset; alumunim crank arm; flawless shifting.
+559,7,CH-0234,Chain,Chain,Silver,,,,,CH,Low,Superior shifting performance.
+560,3,BK-T44U-60,"Touring-2000 Blue, 60",Touring-2000,Blue,U,,,,BK,High,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."
+561,3,BK-T79Y-46,"Touring-1000 Yellow, 46",Touring-1000,Yellow,U,,,,BK,High,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+562,3,BK-T79Y-50,"Touring-1000 Yellow, 50",Touring-1000,Yellow,U,,,,BK,High,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+563,3,BK-T79Y-54,"Touring-1000 Yellow, 54",Touring-1000,Yellow,U,,,,BK,High,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+564,3,BK-T79Y-60,"Touring-1000 Yellow, 60",Touring-1000,Yellow,U,,,,BK,High,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+565,3,BK-T18U-54,"Touring-3000 Blue, 54",Touring-3000,Blue,U,,,,BK,High,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+566,3,BK-T18U-58,"Touring-3000 Blue, 58",Touring-3000,Blue,U,,,,BK,High,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+567,3,BK-T18U-62,"Touring-3000 Blue, 62",Touring-3000,Blue,U,,,,BK,High,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+568,3,BK-T18Y-44,"Touring-3000 Yellow, 44",Touring-3000,Yellow,U,,,,BK,High,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+569,3,BK-T18Y-50,"Touring-3000 Yellow, 50",Touring-3000,Yellow,U,,,,BK,High,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+570,3,BK-T18Y-54,"Touring-3000 Yellow, 54",Touring-3000,Yellow,U,,,,BK,High,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+571,3,BK-T18Y-58,"Touring-3000 Yellow, 58",Touring-3000,Yellow,U,,,,BK,High,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+572,3,BK-T18Y-62,"Touring-3000 Yellow, 62",Touring-3000,Yellow,U,,,,BK,High,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+573,3,BK-T79U-46,"Touring-1000 Blue, 46",Touring-1000,Blue,U,,,,BK,High,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+574,3,BK-T79U-50,"Touring-1000 Blue, 50",Touring-1000,Blue,U,,,,BK,High,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+575,3,BK-T79U-54,"Touring-1000 Blue, 54",Touring-1000,Blue,U,,,,BK,High,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+576,3,BK-T79U-60,"Touring-1000 Blue, 60",Touring-1000,Blue,U,,,,BK,High,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.
+577,3,BK-T44U-46,"Touring-2000 Blue, 46",Touring-2000,Blue,U,,,,BK,High,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."
+578,3,BK-T44U-50,"Touring-2000 Blue, 50",Touring-2000,Blue,U,,,,BK,High,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."
+579,3,BK-T44U-54,"Touring-2000 Blue, 54",Touring-2000,Blue,U,,,,BK,High,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."
+580,2,BK-R79Y-40,"Road-350-W Yellow, 40",Road-350-W,Yellow,W,,,,BK,High,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."
+581,2,BK-R79Y-42,"Road-350-W Yellow, 42",Road-350-W,Yellow,W,,,,BK,High,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."
+582,2,BK-R79Y-44,"Road-350-W Yellow, 44",Road-350-W,Yellow,W,,,,BK,High,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."
+583,2,BK-R79Y-48,"Road-350-W Yellow, 48",Road-350-W,Yellow,W,,,,BK,High,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."
+584,2,BK-R19B-58,"Road-750 Black, 58",Road-750,Black,U,,,,BK,High,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.
+585,3,BK-T18U-44,"Touring-3000 Blue, 44",Touring-3000,Blue,U,,,,BK,High,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+586,3,BK-T18U-50,"Touring-3000 Blue, 50",Touring-3000,Blue,U,,,,BK,High,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."
+587,1,BK-M38S-38,"Mountain-400-W Silver, 38",Mountain-400-W,Silver,W,,,,BK,High,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."
+588,1,BK-M38S-40,"Mountain-400-W Silver, 40",Mountain-400-W,Silver,W,,,,BK,High,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."
+589,1,BK-M38S-42,"Mountain-400-W Silver, 42",Mountain-400-W,Silver,W,,,,BK,High,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."
+590,1,BK-M38S-46,"Mountain-400-W Silver, 46",Mountain-400-W,Silver,W,,,,BK,High,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."
+591,1,BK-M18S-40,"Mountain-500 Silver, 40",Mountain-500,Silver,U,,,,BK,High,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+592,1,BK-M18S-42,"Mountain-500 Silver, 42",Mountain-500,Silver,U,,,,BK,High,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+593,1,BK-M18S-44,"Mountain-500 Silver, 44",Mountain-500,Silver,U,,,,BK,High,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+594,1,BK-M18S-48,"Mountain-500 Silver, 48",Mountain-500,Silver,U,,,,BK,High,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+595,1,BK-M18S-52,"Mountain-500 Silver, 52",Mountain-500,Silver,U,,,,BK,High,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+596,1,BK-M18B-40,"Mountain-500 Black, 40",Mountain-500,Black,U,,,,BK,High,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+597,1,BK-M18B-42,"Mountain-500 Black, 42",Mountain-500,Black,U,,,,BK,High,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+598,1,BK-M18B-44,"Mountain-500 Black, 44",Mountain-500,Black,U,,,,BK,High,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+599,1,BK-M18B-48,"Mountain-500 Black, 48",Mountain-500,Black,U,,,,BK,High,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+600,1,BK-M18B-52,"Mountain-500 Black, 52",Mountain-500,Black,U,,,,BK,High,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."
+601,5,BB-7421,LL Bottom Bracket,LL Bottom Bracket,,,,,,BB,Low,Chromoly steel.
+602,5,BB-8107,ML Bottom Bracket,ML Bottom Bracket,,,,,,BB,Milieu de gamme,Aluminum alloy cups; large diameter spindle.
+603,5,BB-9108,HL Bottom Bracket,HL Bottom Bracket,,,,,,BB,Milieu de gamme,Aluminum alloy cups and a hollow axle.
+604,2,BK-R19B-44,"Road-750 Black, 44",Road-750,Black,U,,,,BK,High,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.
+605,2,BK-R19B-48,"Road-750 Black, 48",Road-750,Black,U,,,,BK,High,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.
+606,2,BK-R19B-52,"Road-750 Black, 52",Road-750,Black,U,,,,BK,High,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.

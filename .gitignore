@@ -1,0 +1,8 @@
+
+target/
+dbt_packages/
+logs/
+
+dev.duckdb
+dev.duckdb
+dev.duckdb.wal
